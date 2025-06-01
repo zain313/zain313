@@ -7,7 +7,7 @@
 
 ### 🔧 Skills & Technologies
 
-* 💻 Flutter, Dart, C#, Java
+* 💻 Flutter (Dart), C#, Java
 * ☁️ Firebase, Supabase
 * 🔗 REST APIs, Git & GitHub
 * 🧠 Clean Code Architecture, Riverpod (State Management)
