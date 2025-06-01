@@ -1,4 +1,4 @@
-## 👋 Hello there! I'm Zain
+## Hello there ! I'm Zain
 
 🎯 A passionate software developer and certified networking professional, specialized in **Flutter**, **Dart**, and modern mobile applications.
 💡 I love building useful open-source tools and creating solutions that help people in real life, and actively contributing to building innovative tech startups, whether my own or part of a visionary team.
@@ -18,9 +18,9 @@
 
 ### 🎓 Certifications
 
-* ✅ CCNP ENCOR (Enterprise Core)
-* ✅ CCNP ENARSI (Enterprise Advanced Routing & Services)
-* ✅ CCNP Enterprise Certification
+*  CCNP ENCOR (Enterprise Core)
+*  CCNP ENARSI (Enterprise Advanced Routing & Services)
+*  CCNP Enterprise Certification
 
 ---
 
