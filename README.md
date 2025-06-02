@@ -7,12 +7,12 @@
 
 ### 🔧 Skills & Technologies
 
-* 💻 Flutter (Dart), C#, Java
-* ☁️ Firebase, Supabase
-* 🔗 REST APIs, Git & GitHub
-* 🧠 Clean Code Architecture, Riverpod (State Management)
-* 🌐 Networking (Cisco, TCP/IP, Routing, Switching)
-* 🗄️ SQL Server, MySQL
+*  Flutter (Dart), C#, Java، python
+*  Firebase, Supabase
+*  REST APIs, Git & GitHub
+*  Clean Code Architecture, Feature-   Based Structure, Modular Design, Maintainable & Scalable Flutter Projects, Riverpod (State Management)، 
+*  Networking (Cisco, TCP/IP, Routing, Switching)
+* SQL Server, MySQL
 * Network Automation Skills
 Familiar with SDN, Python for network automation, REST APIs, JSON/XML, YANG models, Cisco DNA Center, and Ansible basics.
 
