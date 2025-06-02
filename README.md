@@ -13,6 +13,8 @@
 * 🧠 Clean Code Architecture, Riverpod (State Management)
 * 🌐 Networking (Cisco, TCP/IP, Routing, Switching)
 * 🗄️ SQL Server, MySQL
+* Network Automation Skills
+Familiar with SDN, Python for network automation, REST APIs, JSON/XML, YANG models, Cisco DNA Center, and Ansible basics.
 
 ---
 
