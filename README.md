@@ -8,7 +8,11 @@
 ### 🔧 Skills & Technologies
 
 *  Flutter (Dart), C#, Java، python
-*  Firebase, Supabase
+*  Firebase, Supabase: Auth, Storage, Edge Functions (Deno + TypeScript), RLS & policy design.
+*  TypeScript / Deno: Backend APIs using Supabase Edge Functions.
+*  Code Refactoring & Large-Scale Project Organization
+*  Debugging & Profiling Flutter Applications
+*  Software Architecture Patterns (MVVM, Repository Pattern, Clean Architecture)
 *  REST APIs, Git & GitHub
 *  Clean Code Architecture, Feature-   Based Structure, Modular Design, Maintainable & Scalable Flutter Projects, Riverpod (State Management)، 
 *  Networking (Cisco, TCP/IP, Routing, Switching)
